@@ -10,7 +10,7 @@
 
 1. **Open a terminal** and navigate to the project directory:
    ```
-   cd "C:\Users\david\simple calculator app"
+   cd "C:\Users\muthoni\simple calculator app"
    ```
 
 2. **Compile the program** (replace `calculator.c` with `test.c` to run the test file):
